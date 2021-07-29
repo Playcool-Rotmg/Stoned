@@ -1,0 +1,9 @@
+{
+  "name": "stoned",
+  "version": "0.0.0",
+  "description": "Stoned",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
