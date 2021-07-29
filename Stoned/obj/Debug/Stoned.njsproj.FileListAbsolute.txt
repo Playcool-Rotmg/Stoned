@@ -1,0 +1,2 @@
+D:\github\Stoned\Stoned\obj\Debug\Stoned.njsproj.CoreCompileInputs.cache
+D:\github\Stoned\Stoned\bin\Microsoft.NodejsTools.WebRole.dll
